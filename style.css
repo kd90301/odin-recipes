@@ -1,0 +1,32 @@
+* {
+  font-family: "Trebuchet MS", sans-serif;
+  background-color: #f2eda2;
+}
+h4{
+  color:#e36e4d;
+  background-color: beige;  
+}
+h3{
+  color:#ed4415;
+  font-weight: 700; 
+}
+h2{
+  color: #e36e4d;
+  font-weight: 800;
+  text-align: center;
+  font-size: 36px;
+}
+ol{
+  color:#266abd;
+    /* background-color: beige;  these background colors were conflicting with the * element background*/
+}
+ul{
+  color:#bf764e;
+    /* background-color: grey; */
+    
+}
+.description{
+  text-align: center;
+  color:#e36e4d;
+  font-size: 24px;
+}
