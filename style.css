@@ -1,32 +1,85 @@
 * {
   font-family: "Trebuchet MS", sans-serif;
   background-color: #f2eda2;
+  margin: 16px;
+  font-size: 20px;
+  text-decoration: none;
+}
+.main-title{
+  text-align: center;
+  font-size: 36px;
+  display: block;
+  background-color: antiquewhite;
+  margin: 16px;
+  margin-left: 30%;
+  margin-right: 30%;
+  padding: 16px;
+  color: #ed4415;
+  border: solid black;
+  border-width: 2px;
+}
+button{
+  display: block;
+  margin: 12px auto;
+  padding: 8px;
+  font-size: 24px;
+
+}
+p{
+  margin: 8px;
+  padding: 20px;
+}
+.recipe-title{
+  text-align: center;
+  font-size: 36px;
+  display: block;
+  background-color: antiquewhite;
+  margin: 16px;
+  padding: 16px;
+   margin-left: 30%;
+  margin-right: 30%;
 }
 h4{
-  color:#e36e4d;
+  color:#ed4415;
   background-color: beige;  
+  display: block;
+  margin-right: 50%;
+  padding: 12px;
+  background-color: antiquewhite;
+  
 }
 h3{
   color:#ed4415;
   font-weight: 700; 
+  text-align: center;
+  font-size: 24px;
+  display: block;
+  background-color: antiquewhite;
+  margin: 16px;
+  padding: 16px;
 }
 h2{
-  color: #e36e4d;
+  color: #ed4415;
   font-weight: 800;
   text-align: center;
   font-size: 36px;
+  border: solid black;
+  border-width: 2px;
 }
 ol{
-  color:#266abd;
+  color:black;
     /* background-color: beige;  these background colors were conflicting with the * element background*/
 }
 ul{
-  color:#bf764e;
+  color:black;
     /* background-color: grey; */
     
 }
 .description{
   text-align: center;
-  color:#e36e4d;
   font-size: 24px;
+  display: block;
+  background-color: antiquewhite;
+  margin: 16px;
+  padding: 16px;
 }
